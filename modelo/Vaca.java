@@ -1,4 +1,4 @@
-package ejecutable;
+package modelo;
 
 public class Vaca extends Animal
 {

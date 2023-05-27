@@ -1,9 +1,9 @@
-package ejecutable;
+package modelo;
 
 public class Serpiente extends Animal
 {
-    public String hablar()
+    /*public String hablar()
     {
         return "Sssss";
-    }
+    }/* */
 }

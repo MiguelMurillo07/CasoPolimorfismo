@@ -1,4 +1,4 @@
-package ejecutable;
+package modelo;
 
 public class Animal
 {
@@ -21,5 +21,5 @@ public class Animal
         return "Los animales no hablan";
     }
 
-    
+
 }

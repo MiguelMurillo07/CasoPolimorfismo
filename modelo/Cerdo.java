@@ -1,4 +1,4 @@
-package ejecutable;
+package modelo;
 
 public class Cerdo extends Animal
 {
